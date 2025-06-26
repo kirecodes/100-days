@@ -4,6 +4,7 @@ Hi there 👋🏼 welcome to my 100 Days of Code journey! This will not be my fi
 
 I’ll be coding at least one hour a day, focusing on Python, FastAPI, scalable APIs, React, Node, and the AT Protocol. My goal is to rebuild my skills, learn new ones, ship small projects that align with my values, and stay accountable while I work toward backend roles that feel like a good fit. If you're curious, visit the [official 100 Days of Code site](http://100daysofcode.com/) to join the challenge.
 
-Feedback and ideas are always welcome.
+Day 1 is on 26 June 2025.
+Feedback and ideas are always welcome!
 
 Thanks for being here 💛
