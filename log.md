@@ -2,7 +2,7 @@
 
 ## Day 1 – June 29, 2025
 
-**Project Name** Bluesky Cover Page  
+**Bluesky Cover Page**  
 Initialized repo, created `index.html`, `style.css`, and `main.js`. Set up the base layout and structure.
 
 **Links**  
